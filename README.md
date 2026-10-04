@@ -1,20 +1,18 @@
-# 🌿 Solace House – Responsive Hotel Website
+# 💻 Frontend Web Project
 
-A responsive multi-page hotel website developed using **HTML5, CSS3, and JavaScript**.
+A responsive frontend website developed using **HTML5, CSS3, and JavaScript**.
 
-The website provides a clean and user-friendly interface for exploring hotel rooms, services, information, and booking-related sections.
+The project focuses on creating a clean, user-friendly interface with responsive layouts and interactive frontend functionality.
 
 ## ✨ Features
 
-- 🏨 Hotel information and room sections
-- 🛏️ Room filtering functionality
-- 📱 Responsive design for different screen sizes
+- 📱 Responsive design
+- 🎨 Clean and user-friendly interface
 - 🧭 Interactive navigation
-- 🔎 Search and availability functionality
-- ⚡ JavaScript-based interactions
-- 📝 Stay-request form
-- 🎨 Clean and structured user interface
-- 🖥️ DOM manipulation
+- 🖱️ JavaScript-based interactions
+- 📐 Responsive layouts for different screen sizes
+- ⚡ Dynamic frontend functionality
+- 🧩 Structured HTML and reusable CSS styling
 
 ## 🛠️ Technologies Used
 
@@ -26,16 +24,16 @@ The website provides a clean and user-friendly interface for exploring hotel roo
 
 ## 🚀 Project Highlights
 
-- Developed a responsive multi-page hotel website.
-- Created structured layouts using HTML5.
-- Applied reusable CSS styling for consistent design.
-- Added JavaScript-based interactive functionality.
-- Implemented room filtering and availability-related features.
-- Designed the website for different screen sizes.
+- Developed a responsive website using HTML5, CSS3, and JavaScript.
+- Created structured web pages with semantic HTML.
+- Applied CSS for responsive layouts and consistent styling.
+- Added interactive functionality using JavaScript.
+- Used DOM manipulation for frontend interactions.
+- Designed the website to provide a consistent experience across different screen sizes.
 
 ## 🌐 Live Demo
 
-[View Live Project](https://anusha7646.github.io/solace-house/)
+[View Live Project](https://anusha7646.github.io/react-frontend-project/)
 
 ## 👩‍💻 Developer
 
